@@ -1,0 +1,5 @@
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\publish\DataStructures.exe
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\publish\DataStructures.dll
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\publish\DataStructures.deps.json
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\publish\DataStructures.runtimeconfig.json
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\publish\DataStructures.pdb

@@ -1,0 +1,15 @@
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\DataStructures.exe
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\DataStructures.deps.json
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\DataStructures.runtimeconfig.json
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\DataStructures.dll
+D:\Projects\DataStructures\DataStructures\DataStructures\bin\Release\net7.0\DataStructures.pdb
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.csproj.AssemblyReference.cache
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.AssemblyInfoInputs.cache
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.AssemblyInfo.cs
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.csproj.CoreCompileInputs.cache
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.dll
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\refint\DataStructures.dll
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.pdb
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\DataStructures.genruntimeconfig.cache
+D:\Projects\DataStructures\DataStructures\DataStructures\obj\Release\net7.0\ref\DataStructures.dll
